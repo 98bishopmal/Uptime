@@ -4,11 +4,13 @@ repo: Uptime # The name of this repository
 
 sites:
   - name: Woodeys Trees
-    url: https://woodeystrees.co.uk
+    url: $WOODEYS
   - name: TheBishops
-    url: https://thebishops2010.co.uk
+    url: $THEBISHOPS
   - name: CCTV
     url: $CCTV
+  - name: RMM
+    url: $RMM
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
