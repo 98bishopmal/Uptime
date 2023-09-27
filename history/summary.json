@@ -4,20 +4,18 @@
     "url": "$WOODEYS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "woodeys-trees",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 1479,
-    "timeDay": 42,
-    "timeWeek": 1479,
-    "timeMonth": 1479,
-    "timeYear": 1479,
-    "dailyMinutesDown": {
-      "2023-09-26": 15
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1507,
+    "timeDay": 1007,
+    "timeWeek": 1507,
+    "timeMonth": 1507,
+    "timeYear": 1507,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheBishops",
