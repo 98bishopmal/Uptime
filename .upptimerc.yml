@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**Uptime** powered entirely by GitHub."
-  introMessage: Status page for HomeLab in **real-time**
+  introMessage: Status page for HomeLab **real-time**
   navbar:
     - title: Status
       href: /
