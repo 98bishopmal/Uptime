@@ -1,7 +1,7 @@
 url: $SPAMREPORT
-status: down
-code: 502
-responseTime: 428
-lastUpdated: 2023-10-04T14:28:12.162Z
+status: up
+code: 200
+responseTime: 1116
+lastUpdated: 2023-10-04T14:41:09.349Z
 startTime: 2023-09-21T12:28:45.231Z
 generator: Upptime <https://github.com/upptime/upptime>
