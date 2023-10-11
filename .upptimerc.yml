@@ -15,8 +15,6 @@ sites:
     url: $DOCKER
   - name: BitWarden
     url: $BITWARDEN
-  - name: SpamReport
-    url: $SPAMREPORT
   - name: Wiki
     url: $WIKI
 status-website:
