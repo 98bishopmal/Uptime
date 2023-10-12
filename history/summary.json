@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "woodeys-trees",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1997,
     "timeDay": 1930,
     "timeWeek": 2026,
     "timeMonth": 1997,
     "timeYear": 1997,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$THEBISHOPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-bishops",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1733,
-    "timeDay": 1682,
-    "timeWeek": 1875,
-    "timeMonth": 1733,
-    "timeYear": 1733,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1794,
+    "timeDay": 2020,
+    "timeWeek": 2074,
+    "timeMonth": 1794,
+    "timeYear": 1794,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$RMM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rmm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 328,
-    "timeWeek": 345,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 371,
+    "timeDay": 345,
+    "timeWeek": 353,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "$DOCKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 329,
-    "timeWeek": 378,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 387,
+    "timeDay": 343,
+    "timeWeek": 383,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "$BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 325,
-    "timeWeek": 351,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 342,
+    "timeDay": 335,
+    "timeWeek": 355,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "$WIKI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 583,
-    "timeWeek": 580,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 919,
+    "timeDay": 741,
+    "timeWeek": 678,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-10-12": 0
+      "2023-10-12": 20
     }
   }
 ]
