@@ -7,12 +7,12 @@ sites:
   # url: $RMM
   # name: Portainer
   # url: $DOCKER
+  # name: CCTV
+  # url: $CCTV
   - name: Woodeys Trees
     url: $WOODEYS
   - name: TheBishops
     url: $THEBISHOPS
-  - name: CCTV
-    url: $CCTV
   - name: BitWarden
     url: $BITWARDEN
   - name: Wiki
