@@ -9,10 +9,10 @@ sites:
     url: $THEBISHOPS
   - name: CCTV
     url: $CCTV
-  - name: RMM
-    url: $RMM
-  - name: Portainer
-    url: $DOCKER
+  - # name: RMM
+   # url: $RMM
+  - # name: Portainer
+    # url: $DOCKER
   - name: BitWarden
     url: $BITWARDEN
   - name: Wiki
