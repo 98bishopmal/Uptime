@@ -3,16 +3,16 @@ owner: 98bishopmal # Your GitHub organization or username, where this repository
 repo: Uptime # The name of this repository
 
 sites:
+  # name: RMM
+  # url: $RMM
+  # name: Portainer
+  # url: $DOCKER
   - name: Woodeys Trees
     url: $WOODEYS
   - name: TheBishops
     url: $THEBISHOPS
   - name: CCTV
     url: $CCTV
-  - # name: RMM
-   # url: $RMM
-  - # name: Portainer
-    # url: $DOCKER
   - name: BitWarden
     url: $BITWARDEN
   - name: Wiki
