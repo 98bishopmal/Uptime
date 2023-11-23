@@ -1,7 +1,7 @@
 url: $WOODEYS
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2023-11-22T23:09:16.124Z
+status: down
+code: 530
+responseTime: 85
+lastUpdated: 2023-11-23T16:53:57.812Z
 startTime: 2023-11-13T10:49:48.263Z
 generator: Upptime <https://github.com/upptime/upptime>
