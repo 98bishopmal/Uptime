@@ -1,7 +1,7 @@
 url: $WIKI
-status: down
-code: 530
-responseTime: 64
-lastUpdated: 2024-01-02T15:54:30.417Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2024-01-02T17:50:09.354Z
 startTime: 2023-11-13T10:49:52.868Z
 generator: Upptime <https://github.com/upptime/upptime>
