@@ -58,18 +58,20 @@
     "url": "$THEBISHOPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-bishops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1048,
-    "timeDay": 814,
-    "timeWeek": 545,
-    "timeMonth": 507,
-    "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "time": 1043,
+    "timeDay": 537,
+    "timeWeek": 517,
+    "timeMonth": 501,
+    "timeYear": 1043,
+    "dailyMinutesDown": {
+      "2024-01-06": 0
+    }
   },
   {
     "name": "BitWarden",
