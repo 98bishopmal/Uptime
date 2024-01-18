@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.91%",
     "time": 489,
-    "timeDay": 5303,
+    "timeDay": 5362,
     "timeWeek": 1727,
-    "timeMonth": 782,
+    "timeMonth": 808,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
       "2024-01-12": 49
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 617,
-    "timeDay": 502,
-    "timeWeek": 552,
-    "timeMonth": 648,
-    "timeYear": 617,
+    "time": 618,
+    "timeDay": 678,
+    "timeWeek": 543,
+    "timeMonth": 654,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2024-01-12": 49
     }
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1150,
-    "timeDay": 744,
-    "timeWeek": 770,
-    "timeMonth": 757,
-    "timeYear": 1150,
+    "time": 1147,
+    "timeDay": 613,
+    "timeWeek": 728,
+    "timeMonth": 761,
+    "timeYear": 1147,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +68,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 1003,
-    "timeDay": 471,
+    "time": 1001,
+    "timeDay": 682,
     "timeWeek": 437,
-    "timeMonth": 517,
-    "timeYear": 1003,
+    "timeMonth": 524,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2024-01-12": 49,
       "2024-01-06": 16
@@ -90,11 +89,11 @@
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
-    "time": 370,
-    "timeDay": 338,
+    "time": 371,
+    "timeDay": 573,
     "timeWeek": 384,
-    "timeMonth": 398,
-    "timeYear": 370,
+    "timeMonth": 406,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2024-01-12": 49
     }
@@ -111,9 +110,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 776,
-    "timeDay": 482,
-    "timeWeek": 518,
-    "timeMonth": 571,
+    "timeDay": 726,
+    "timeWeek": 515,
+    "timeMonth": 575,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2024-01-12": 49
