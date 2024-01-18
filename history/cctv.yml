@@ -1,7 +1,7 @@
 url: $CCTV
-status: down
-code: 530
-responseTime: 36
-lastUpdated: 2024-01-18T20:01:29.815Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2024-01-18T20:22:22.424Z
 startTime: 2023-12-11T17:13:48.246Z
 generator: Upptime <https://github.com/upptime/upptime>
