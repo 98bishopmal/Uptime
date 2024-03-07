@@ -1,7 +1,7 @@
 url: $DOCKER
-status: down
-code: 502
-responseTime: 340
-lastUpdated: 2024-03-07T11:51:08.117Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2024-03-07T12:18:32.221Z
 startTime: 2023-12-11T17:13:38.418Z
 generator: Upptime <https://github.com/upptime/upptime>
