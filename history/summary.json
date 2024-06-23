@@ -11,9 +11,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 497,
-    "timeDay": 390,
-    "timeWeek": 464,
-    "timeMonth": 422,
+    "timeDay": 469,
+    "timeWeek": 471,
+    "timeMonth": 420,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2024-06-11": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1359,
-    "timeDay": 1340,
-    "timeWeek": 1462,
-    "timeMonth": 1430,
-    "timeYear": 1359,
+    "time": 1357,
+    "timeDay": 742,
+    "timeWeek": 1400,
+    "timeMonth": 1407,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2024-06-11": 27
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1009,
-    "timeDay": 425,
-    "timeWeek": 487,
-    "timeMonth": 452,
-    "timeYear": 1009,
+    "time": 1008,
+    "timeDay": 496,
+    "timeWeek": 504,
+    "timeMonth": 449,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2024-06-11": 27
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 454,
-    "timeWeek": 440,
-    "timeMonth": 405,
+    "timeDay": 437,
+    "timeWeek": 452,
+    "timeMonth": 404,
     "timeYear": 516,
     "dailyMinutesDown": {}
   },
@@ -83,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monitor",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 513,
-    "timeWeek": 687,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "uptime": "95.88%",
+    "uptimeDay": "53.07%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
+    "time": 647,
+    "timeDay": 424,
+    "timeWeek": 657,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-23": 39,
+      "2024-06-22": 637
     }
   }
 ]
