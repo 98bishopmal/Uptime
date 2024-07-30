@@ -21,9 +21,9 @@ status-website:
   introTitle: "**Uptime** powered entirely by GitHub."
   introMessage: Status page for HomeLab **real-time**
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
-    - title: GitHub
+    - title: GitHub Link
       href: https://github.com/$OWNER/$REPO
   status-website:
   theme: ocean
