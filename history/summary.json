@@ -5,21 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 484,
-    "timeDay": 309,
-    "timeWeek": 392,
-    "timeMonth": 414,
+    "timeDay": 443,
+    "timeWeek": 377,
+    "timeMonth": 416,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-09-04": 84,
-      "2024-08-20": 28,
-      "2024-08-01": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Woodeys Trees",
@@ -27,21 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "woodeys-trees",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1269,
-    "timeDay": 1169,
-    "timeWeek": 1062,
-    "timeMonth": 1056,
+    "timeDay": 1443,
+    "timeWeek": 1086,
+    "timeMonth": 1062,
     "timeYear": 1269,
-    "dailyMinutesDown": {
-      "2024-09-04": 97,
-      "2024-09-03": 49,
-      "2024-08-01": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheBishops",
@@ -49,23 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-bishops",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.45%",
-    "time": 926,
-    "timeDay": 699,
-    "timeWeek": 710,
-    "timeMonth": 733,
-    "timeYear": 926,
-    "dailyMinutesDown": {
-      "2024-09-04": 97,
-      "2024-09-03": 49,
-      "2024-08-15": 23,
-      "2024-08-01": 25,
-      "2024-07-30": 97
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 927,
+    "timeDay": 972,
+    "timeWeek": 725,
+    "timeMonth": 747,
+    "timeYear": 927,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BitWarden",
@@ -73,19 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 372,
-    "timeWeek": 406,
-    "timeMonth": 410,
+    "timeDay": 456,
+    "timeWeek": 396,
+    "timeMonth": 411,
     "timeYear": 498,
-    "dailyMinutesDown": {
-      "2024-09-04": 97,
-      "2024-08-01": 44
-    }
+    "dailyMinutesDown": {}
   }
 ]
