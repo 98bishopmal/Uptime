@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 480,
     "timeDay": 363,
     "timeWeek": 391,
     "timeMonth": 413,
     "timeYear": 484,
-    "dailyMinutesDown": {
-      "2024-09-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Woodeys Trees",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "woodeys-trees",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1267,
     "timeDay": 2315,
     "timeWeek": 1401,
     "timeMonth": 1163,
     "timeYear": 1257,
-    "dailyMinutesDown": {
-      "2024-09-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TheBishops",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-bishops",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 918,
     "timeDay": 1181,
     "timeWeek": 899,
     "timeMonth": 729,
     "timeYear": 893,
-    "dailyMinutesDown": {
-      "2024-09-27": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BitWarden",
@@ -65,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 493,
     "timeDay": 333,
     "timeWeek": 367,
     "timeMonth": 398,
     "timeYear": 496,
-    "dailyMinutesDown": {
-      "2024-09-27": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
