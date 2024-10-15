@@ -40,27 +40,29 @@
     "url": "$THEBISHOPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-bishops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 1450,
-    "timeWeek": 886,
-    "timeMonth": 790,
-    "timeYear": 804,
-    "dailyMinutesDown": {}
+    "time": 929,
+    "timeDay": 4986,
+    "timeWeek": 1841,
+    "timeMonth": 1032,
+    "timeYear": 821,
+    "dailyMinutesDown": {
+      "2024-10-15": 2
+    }
   },
   {
     "name": "BitWarden",
     "url": "$BITWARDEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 354,
     "timeMonth": 395,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   }
 ]
