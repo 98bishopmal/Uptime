@@ -1,7 +1,7 @@
 url: $THEBISHOPS
-status: down
-code: 523
-responseTime: 8521
-lastUpdated: 2024-10-15T07:45:00.078Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2024-10-15T07:56:33.510Z
 startTime: 2024-07-30T10:50:46.948Z
 generator: Upptime <https://github.com/upptime/upptime>
